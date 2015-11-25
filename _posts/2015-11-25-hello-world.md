@@ -1,5 +1,4 @@
 ---
-title: Hello World
 layout: post
 tagline: "How to post ?"
 ---
